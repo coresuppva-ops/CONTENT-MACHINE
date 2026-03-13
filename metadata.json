@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Social Media Content Machine",
+  "description": "Generate 30 days of social media posts and video scripts instantly using Google Gemini. Features export to PDF/CSV and local project saving.",
+  "requestFramePermissions": []
+}
